@@ -1,4 +1,4 @@
 ## Introduction to Optimization
 
-HW1: Minimal Squares Optimization
+HW1: Least Squares Optimization
 
